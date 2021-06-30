@@ -8,7 +8,7 @@ const CONFIG = {
     btnYes: 'oki em sẽ luôn là cc của anh Phat',
     btnNo: 'Đéo nhé',
     question:'Thấy tao như thế nào',
-    btnReply: 'Gửi đàn em thân yêu',
+    btnReply: 'Tao nói thật',
     reply: 'đẹp trai khoai to khỏi phải nói nhiều',
     mess: 'Tao biết mà 🥰. Yêu mày nhiều nhiều 😘😘',
     messDesc: 'Lo học đi chơi cc.',
