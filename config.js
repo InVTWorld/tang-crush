@@ -5,7 +5,7 @@ const CONFIG = {
     btnIntro: 'hihi',
     title: 'Thi xong qua nhà mày chơi nhen nhok',
     desc: 'Làm cc tao đi 😙 ',
-    btnYes: 'oki em sẽ luôn là cc của anh Phat',
+    btnYes: 'oki em sẽ luôn là cc của anh',
     btnNo: 'Đéo nhé',
     question:'Thấy tao như thế nào',
     btnReply: 'Tao nói thật',
